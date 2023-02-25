@@ -17,3 +17,5 @@ Dynamically provide NIP-05 nostr identifiers on your domain using PHP.
 5. Navigate to the public root folder of your domain web hosting. This might be httpdocs, httpsdocs, public_html, or something similar. Create a folder named **.well-known**
 
 6. Save two files .htaccess and nostr.php to the .well-known folder.
+
+7. Add your NIP-05 identifier to your nostr client, ie MrOstrich@mydomain.com
